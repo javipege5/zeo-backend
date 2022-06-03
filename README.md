@@ -35,10 +35,10 @@ API BACKEND
 
 RUTAS POR DEFECTO
 
-app front: http://localhost:4200
-api backend: http://localhost:8080/api/users/
-persistent: true
-db: localhost:3306/db-demo-zeo
-db username = root
-db password = root
+- app front: http://localhost:4200
+- api backend: http://localhost:8080/api/users/
+- persistent: true
+- db: localhost:3306/db-demo-zeo
+- db username = root
+- db password = root
 
